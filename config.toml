@@ -1,7 +1,7 @@
 baseURL = "https://tylucie.fr/"
 languageCode = "fr"
 title = "Ty Lucie"
-theme = "seminyak"
+theme = "aerial"
 
 [params]
   color_palette = "grey" # Required, adjusts color palette
