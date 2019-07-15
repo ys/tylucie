@@ -7,4 +7,4 @@ theme = "seminyak"
   color_palette = "grey" # Required, adjusts color palette
   referrer_policy = "same-origin" # Optional, referrer policy meta tag
   background_image_url = "brittany.jpg" # Optional, background image
-  google_fonts = "Oswald|Raleway" # Passed to Google for Web Font
+  google_fonts = "Oswald|Rokkit" # Passed to Google for Web Font
