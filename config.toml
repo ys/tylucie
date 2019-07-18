@@ -1,10 +1,10 @@
 baseURL = "https://tylucie.fr/"
 languageCode = "fr"
 title = "Ty Lucie"
-theme = "aerial"
+theme = "landing"
 
 [params]
-  color_palette = "grey" # Required, adjusts color palette
-  referrer_policy = "same-origin" # Optional, referrer policy meta tag
-  background_image_url = "brittany.jpg" # Optional, background image
-  google_fonts = "Oswald|Rokkit" # Passed to Google for Web Font
+  backgroundColor = "#F0EAE3"
+  textColor = "#003E4B"
+  textFont = "Rokkitt"
+  baseline = "48°24’41.2”N 3°46’15.2”W"
