@@ -4,7 +4,7 @@ title = "Ty Lucie"
 theme = "landing"
 
 [params]
-  backgroundColor = "#F0EAE3"
+  backgroundColor = "#F4F9F9"
   textColor = "#003E4B"
   textFont = "Rokkitt"
   baseline = "48°24’41.2”N 3°46’15.2”W"
