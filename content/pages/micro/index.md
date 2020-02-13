@@ -1,7 +1,7 @@
 ---
 title: "A simple micro cabin"
 date: 2020-01-18T22:57:50+02:00
-draft: false
+slug: "/micro"
 resources:
 - src: "*.jpg"
 ---

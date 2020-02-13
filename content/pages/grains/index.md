@@ -1,6 +1,6 @@
 ---
 title: "Just a micro roaster"
-slug: "/grainsg"
+slug: "/grains"
 date: 2020-01-18T22:57:50+02:00
 ---
 
