@@ -1,4 +1,10 @@
-# Gaufres de Liège
+---
+title: "Gaufres de Liège"
+date: 2020-01-18T22:57:50+02:00
+slug: "/wafles"
+resources:
+- src: "*.jpg"
+---
 
 Pour 12 gaufres :
 
