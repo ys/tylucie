@@ -21,3 +21,4 @@ It is time to turn the wood oven on and serve yourself a nice drink to relax.
 
 - [chalkroad.co.uk](https://chalkroad.co.uk)
 - [edificeny.com](https://edificeny.com)
+- [Den outdoors](https://denoutdoors.com/collections/classic/products/tiny-house-cabin)
