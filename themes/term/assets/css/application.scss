@@ -126,7 +126,9 @@ hr {
     }
   }
 }
-
+.logo svg {
+  @apply h-40 w-40;
+}
 
 // Expand Hugo templates
 
